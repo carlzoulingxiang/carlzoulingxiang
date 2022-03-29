@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 [Twitter API wrapper](https://github.com/tangaot/twitterapiR) is an API wrapper for Twitter in R. This package provides user friendly functions for the users to query information from Twitter. 
 
 ### Wind Turbines Dashboard
-[Wind Turbines Dashboard](https://github.com/ubco-mds-2021-labs/dashboard1-group-c/tree/deployment) is a dashboard which will help to visualize the number of turbines in different provinces of Canada. It gave us ideas about the number of wind turbines in Canada province wise and number of wind turbines installed on yearly basis.
+[Wind Turbines Dashboard](https://github.com/ubco-mds-2021-labs/dashboard1-group-c/tree/deployment) is a dashboard which will help to visualize the number of turbines in different provinces of Canada. It gave us ideas about the number of wind turbines in Canada province wise and number of wind turbines installed on yearly basis. Here is the [link](https://data551-groupc-milestone4.herokuapp.com/) to the dashboard.
 
