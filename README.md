@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 ### Wind Turbines Dashboard
 [Wind Turbines Dashboard](https://github.com/ubco-mds-2021-labs/dashboard1-group-c/tree/deployment) is a dashboard which will help to visualize the number of turbines in different provinces of Canada. It gave us ideas about the number of wind turbines in Canada province wise and number of wind turbines installed on yearly basis. Here is the [link](https://data551-groupc-milestone4.herokuapp.com/) to the dashboard.
 
+
+## Leetcode Practice
+[This repository](https://github.com/carlzoulingxiang/Leetcode-practice) is for my learning purpose to practice my Python and SQL skills with questions on Leetcode
