@@ -28,5 +28,10 @@ Here are some ideas to get you started:
 
 [BADM Hackathon](https://beediehackathon.bus.sfu.ca/files/2020HackathonCase20201114.pdf) was a case competition in the Beedie school of business at SFU. It was an intense competition where we faced off against over 90 contestant students and 30 teams in building a marketing strategy and predictive model for a FinTech Mortgage Lending Company. [Here](https://docs.google.com/presentation/d/e/2PACX-1vTAwepeWr0ou0yx4GNQ9_ycLWh3qtcJbBIBxBGEjjvvMRRkALXtzIsGz1fE_y1CCsUQBZrQU99o3TJb/pub?start=false&loop=false&delayms=3000&slide=id.p1) is our for the company.
 
+## School Works
 ### Twitter API wrapper 
-[Twitter API wrapper](https://github.com/tangaot/twitterapiR) was to provide a quick exploratory of the resources provided by twitter 
+[Twitter API wrapper](https://github.com/tangaot/twitterapiR) is an API wrapper for Twitter in R. This package provides user friendly functions for the users to query information from Twitter. 
+
+### Wind Turbines Dashboard
+[Wind Turbines Dashboard](https://github.com/ubco-mds-2021-labs/dashboard1-group-c/tree/deployment) is a dashboard which will help to visualize the number of turbines in different provinces of Canada. It gave us ideas about the number of wind turbines in Canada province wise and number of wind turbines installed on yearly basis.
+
