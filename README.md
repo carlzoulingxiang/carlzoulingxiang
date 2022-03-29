@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 ### SFU Business Analytics and Decision Making (BADM) Hackathon
 
-[BADM Hackathon](https://beediehackathon.bus.sfu.ca/files/2020HackathonCase20201114.pdf) was a case competition in the Beedie school of business at SFU. It was an intense competition where we faced off against over 90 contestant students and 30 teams in building a marketing strategy and predictive model for a FinTech Mortgage Lending Company. [Here](https://docs.google.com/presentation/d/e/2PACX-1vTAwepeWr0ou0yx4GNQ9_ycLWh3qtcJbBIBxBGEjjvvMRRkALXtzIsGz1fE_y1CCsUQBZrQU99o3TJb/pub?start=false&loop=false&delayms=3000&slide=id.p1) is our solution for the company.
+[BADM Hackathon](https://beediehackathon.bus.sfu.ca/files/2020HackathonCase20201114.pdf) was a case competition in the Beedie school of business at SFU. It was an intense competition where we faced off against over 90 contestant students and 30 teams in building a marketing strategy and predictive model for a FinTech Mortgage Lending Company. Our team was placed 2nd for the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTAwepeWr0ou0yx4GNQ9_ycLWh3qtcJbBIBxBGEjjvvMRRkALXtzIsGz1fE_y1CCsUQBZrQU99o3TJb/pub?start=false&loop=false&delayms=3000&slide=id.p1) portion and placed 3rd for the model's accuracy.
+
 
 ## School Works
 ### Twitter API wrapper 
