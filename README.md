@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### BIRS CIH Hackathon
 
 [BIRS CIH Hackathon](https://careerandinnovationhub.ca/data-science-2021/#hackathon) was a competition where we need to build a visualization dashboard that provides insight into the Canadian and American legislative process. This competition was very interesting because we were only given APIs to fetch the data from IOTO international to build a dashboard within a day. On the other hand this was the reason the competition was quite difficult. My team reached 2nd place! Here is a [link](https://github.com/PANDASANG1231/BIRS_CIH_dashboard) to my solution.
+Tableau version [link](https://public.tableau.com/app/profile/ling.xiang.zou/viz/Section6_16488504543450/No_ofbills?publish=yes) 
 
 ### SFU Business Analytics and Decision Making (BADM) Hackathon
 
